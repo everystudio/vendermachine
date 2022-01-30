@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a5fc435081f2794d910bb71fc220e08, type: 3}
   m_Name: Juice01
   m_EditorClassIdentifier: 
-  juice_name: "\u30B5\u30AF\u30E9\u30B3\u30FC\u30E9"
-  price: 1000
+  juice_name: "SA\u30B3\u30FC\u30E9"
+  price: 100
   sprite: {fileID: 21300000, guid: ee50c9ff72ce24e4ebde5e22a44a21fd, type: 3}
